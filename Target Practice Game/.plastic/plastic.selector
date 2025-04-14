@@ -1,4 +1,0 @@
-repository "Target Practice Game/Target Practice Game@17867450114199@cloud"
-  path "/"
-    br "/main"
-    co "/main"
